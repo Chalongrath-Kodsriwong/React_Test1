@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "ip": "192.168.1.1",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "type": "Botnet",
+    "country": "United States",
+    "region": "California"
+  },
+  {
+    "id": "2",
+    "ip": "192.168.1.2",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "type": "Trojan",
+    "country": "United Kingdom",
+    "region": "London"
+  },
+  {   "id": "3",
+      "ip": "012.345.678.9",
+      "country": "South Korea",
+      "region": "Seoul",
+      "latitude": 37.5665,
+      "longitude": 126.9780,
+      "type": "Keylogger"
+  }
+  ,
+  {   "id": "4",
+      "ip": "012.345.678.9",
+      "country": "South Korea",
+      "region": "Seoul",
+      "latitude": 37.5665,
+      "longitude": 126.9780,
+      "type": "Keylogger"
+  }
+  
+]
